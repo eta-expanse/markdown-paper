@@ -1,13 +1,15 @@
 ---
-# markdown.md --- Markdown, lightweight markup and Poster's theory of the mode of information 
+# Mode of Information Report: Lightweight Markup and Markdown
 # 
-# To the extent possible under law, the author(s) have dedicated all copyright
-# and related and neighboring rights to this software to the public domain
-# worldwide. This software is distributed without any warranty.
+# This paper was originally written for a class titled "Visual Information
+# Science", taught by Dr. Ma at the University of Rhode Island. The "mode of
+# information" refers to Poster's book from 1990 of the same title.
 # 
-# You should have received a copy of the CC0 Public Domain Dedication along
-# with this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
-title: Lightweight Markup and Electronic Documents
+# This work is licensed under the Creative Commons Attribution 4.0
+# International License. To view a copy of this license, visit
+# http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
+# Commons, PO Box 1866, Mountain View, CA 94042, USA.
+title: Markdown and the Mode of Information
 author: Walter Lewis
 ...
 
