@@ -1,4 +1,4 @@
-# Mode of Information Report: Lightweight Markup and Markdown
+# Markdown and the Mode of Information
 
 This paper was originally written for a class titled "Visual
 Information Science", taught by Dr. Ma at the University of Rhode
